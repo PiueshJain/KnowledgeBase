@@ -1,6 +1,6 @@
 <ul>
 	<li>apple</li>
 	<li>Bananas</li>
-	<li>Milk</li>
+	<li>Soy Milk 1</li>
 	<li>Vegetables</li>
 </ul>
